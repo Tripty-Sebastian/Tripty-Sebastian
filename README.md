@@ -12,6 +12,7 @@ My journey has taken me from managing large-scale web applications to transformi
        maintained over 7 eCommerce applications, automated critical workflows, and optimized data 
        quality through SQL. My BI skillset, sharpened through TripleTen’s hands-on program, includes 
        Power BI, Tableau, and end-to-end reporting and dashboarding and visualization.
+
 I thrive on identifying patterns in complex datasets, uncovering insights that improve operations, and presenting clear, concise dashboards to stakeholders across all levels. Whether I’m coordinating with developers, collaborating with clients, or diving into data models, I bring clarity, structure, and impact.
 Now equipped with proficient skills in big data analysis and visualization, I am eager to apply my expertise within the Data industry.
 Apart from my professional pursuits, I enjoy Interior Designing, Investing, and Raising my kids. 
