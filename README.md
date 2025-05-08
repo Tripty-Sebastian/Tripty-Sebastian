@@ -2,12 +2,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-sebastian.tripty@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sebastian.tripty@gmail.com)](mailto:sebastian.tripty@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-tripty--sebastian-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tripty-sebastian/) [![Github Badge](https://img.shields.io/badge/-TriptySebastian-grey?style=flat&logo=github&logoColor=white&link=https://github.com/TriptySebastian/)](https://www.github.com/TriptySebastian/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=Tripty-Sebastian@github.io/)](Tripty-Sebastian@github.io/) <p align='left'>In all my career, I have contributed to impacting business outcomes through effective organization, prioritization, and execution of key projects. With 18+ years in software development and a recent pivot to Business Intelligence because of my reverence for data, I bring a rare combination of deep technical expertise and analytical acumen. 
 My journey has taken me from managing large-scale web applications to transforming raw data into actionable insights that drive smarter business decisions: 
-  #   I completed my Bachelor of Engineering from NIT, India. I was recruited on campus to one of the 
+  I completed my Bachelor of Engineering from NIT, India. I was recruited on campus to one of the 
        top three software companies before my final year commenced. I have worked on every aspect of 
        Software Development Lifecycle (SDLC) and have enjoyed Analysis and Design phase the most.
-  #   While working, I completed my PGDBA(Finance) owing to my affinity for numbers. Business 
+  While working, I completed my PGDBA(Finance) owing to my affinity for numbers. Business 
        Intelligence Analysis covers my three passions: numbers, analysis and decision making.
-  #   Throughout my career, I’ve led cross-functional teams, streamlined processes, and significantly cut 
+  Throughout my career, I’ve led cross-functional teams, streamlined processes, and significantly cut 
        costs—reducing Viking’s web-related expenses by 98% in just one year. I’ve programmed and 
        maintained over 7 eCommerce applications, automated critical workflows, and optimized data 
        quality through SQL. My BI skillset, sharpened through TripleTen’s hands-on program, includes 
