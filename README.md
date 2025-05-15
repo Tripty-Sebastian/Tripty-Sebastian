@@ -16,7 +16,9 @@ My journey has taken me from managing large-scale web applications to transformi
 I thrive on identifying patterns in complex datasets, uncovering insights that improve operations, and presenting clear, concise dashboards to stakeholders across all levels. Whether I’m coordinating with developers, collaborating with clients, or diving into data models, I bring clarity, structure, and impact.
 Now equipped with proficient skills in big data analysis and visualization, I am eager to apply my expertise within the Data industry.
 Apart from my professional pursuits, I enjoy Interior Designing, Investing, and Raising my kids. 
-Please feel free to connect with me here on LinkedIn or via email at sebastian.tripty@gmail.com. If you happen to know of any BI analyst positions that align with my interests and skills, I would greatly appreciate your recommendations. I'm excited to explore new opportunities and contribute to the success of forward-thinking organizations</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1WMgPuBprYx91mpGX_ThF595CcRxtAMoU/edit?usp=drive_link&ouid=107234123542012149699&rtpof=true&sd=true ' target=_blank><u>here</u>.</a></p>
+Please feel free to connect with me here on LinkedIn or via email at sebastian.tripty@gmail.com. If you happen to know of any BI analyst positions that align with my interests and skills, I would greatly appreciate your recommendations. I'm excited to explore new opportunities and contribute to the success of forward-thinking organizations</p><p align='left'> You can view my resume <a 
+href='https://docs.google.com/document/d/1f1S0ky0b7A2cByuMxG1PX8bfWHlBtfKs/edit?usp=drive_link&ouid=107234123542012149699&rtpof=true&sd=true' target=_blank><u>here</u>.</a></p>
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Tripty-Sebastian alt=Tripty-Sebastian /> </p>
 
