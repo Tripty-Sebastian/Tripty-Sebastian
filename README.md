@@ -18,7 +18,7 @@ Now equipped with proficient skills in big data analysis and visualization, I am
 Apart from my professional pursuits, I enjoy Interior Designing, Investing, and Raising my kids. 
 Please feel free to connect with me here on LinkedIn or via email at sebastian.tripty@gmail.com. If you happen to know of any BI analyst positions that align with my interests and skills, I would greatly appreciate your recommendations. I'm excited to explore new opportunities and contribute to the success of forward-thinking organizations</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1WMgPuBprYx91mpGX_ThF595CcRxtAMoU/edit?usp=drive_link&ouid=107234123542012149699&rtpof=true&sd=true ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=TriptySebastian alt=TriptySebastian /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Tripty-Sebastian alt=Tripty-Sebastian /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=TriptySebastian&show_icons=true&include_all_commits=true)](https://github.com/TriptySebastian/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TriptySebastian&layout=compact)](https://github.com/TriptySebastian/github-readme-stats)
